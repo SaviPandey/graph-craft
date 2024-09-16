@@ -1,4 +1,4 @@
-# Graph Visualizer
+# Graph Craft
 
 This project is a web-based graph visualizer that allows you to input a graph and visualize it on a canvas. The visualization shows nodes as circles and edges as lines or curves connecting the nodes.
 
